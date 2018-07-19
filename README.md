@@ -1,7 +1,7 @@
 
 # Giphy API 
 
-a dynamic web page that populates with gifs(images) of animals.
+a dynamic web page that populates gifs(images) of animal of your choice.
 
 # How the app works:
  as user clicks on a button, the page grabs 10 static, non-animated gif images from the GIPHY API and place them on the page.

@@ -8,6 +8,8 @@ a dynamic web page that populates gifs(images) of animal of your choice.
  as user clicks one of the still GIPHY images, the gif animates. If the user clicks the gif again, it stops playing.
  Under every gif, rating (PG, G, so on) are displayed, this info is provided in the GIPHY API.
  
+ follow the link: https://bethgmariam.github.io/GIPHY-API-AJAX/
+ 
 # additional animal of interest can be added:
 
 the page takes the value from a user input box and adds it into the topics array and generates dynamic button to add images. 
